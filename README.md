@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Goldibott:3 (Not telling real name)
 ============================================================================================================================================================
 
-Ai engineer, full stack dev
+AI engineer, full stack dev
 ---------------------------
 
 I've been coding since around 6th grade...It started with HTML, quickly scaled to a fullstack programming and python, etc etc. I've written a few research papers and done a few commits, but honestly, I still have a LONG way to go if I ever wanna actually get into this profession, till then I have a whole bunch of commits to do...hope to see ya'll someday.
